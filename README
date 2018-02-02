@@ -1,0 +1,7 @@
+Test project that addresses an interesting interview question:
+
+Convert a binary search tree into a doubly linked list using inorder traversal.
+
+To run:
+
+java -jar BSTtoLL.jar 
